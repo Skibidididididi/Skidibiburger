@@ -1,0 +1,104 @@
+body{
+  margin:0;
+  padding:0;
+  height:100vh;
+  background-color:f0f0f0;
+}
+.header{
+  width:100%;
+  height:150px;
+  background-color:lightblue;
+  Border-radius:0px 0px 50px 50px;
+  position:sticky;
+  top:0;
+  z-index:1000;
+  background-image:url(https://t4.ftcdn.net/jpg/02/28/68/07/360_F_228680721_gGbh5ylrMPMikdBIzWb8N1yGBLg8dmu9.jpg)
+  }
+.content{
+  width:100%;
+  height:550px;
+  background-color:skyblue;
+  Border-radius:50px;
+  top:0;
+  }
+.name{
+  width:40%;
+  height:60%;
+  position:absolute;
+  top:3%;
+  left:15%;
+}
+.logo{
+  width:130px;
+  height:130px;
+  background-color:red;
+  position:absolute;
+  top:3%;
+  left:5%;
+  background-image:url(https://pbs.twimg.com/profile_images/1712148489029783553/lDstB-nr_400x400.jpg);
+    background-size:cover;
+  border-radius:35px;
+}
+.button1{
+  width:120px;
+  height:50px;
+  background-color:red;
+  position:absolute;
+  top:60%;
+  left:67%;
+  text-align:center;
+line-height:50px;
+  font-size:1.5em;
+  color:white;
+  font-family:arial, sans-serif;
+  border-radius:20px;
+}
+.button2{
+  width:120px;
+  height:50px;
+  background-color:red;
+  position:absolute;
+  top:60%;
+  left:77%;
+   text-align:center;
+line-height:50px;
+  font-size:1.5em;
+  color:white;
+  font-family:arial, sans-serif;
+  border-radius:20px;
+}
+.button3{
+  width:120px;
+  height:50px;
+  background-color:red;
+  position:absolute;
+  top:60%;
+  left:87%;
+   text-align:center;
+line-height:50px;
+  font-size:1.5em;
+  color:white;
+  font-family:arial, sans-serif;
+  border-radius:20px;
+}
+.nameHead{
+  Font-family:impact, sans-serif;
+  font-size:50px;
+  Letter-spacing:5px;
+  color:orange;
+  -webkit-text-stroke: 0.04cm yellow;
+}
+.promo{
+  font-family:Arial, sans-serif;
+  font-size:1.5em;
+}
+.content{
+  text-align:center;
+  font-size:20px;
+}
+.map{
+  margin-top:25px;
+  margin-right:10px;
+  margin-left:10px;
+  
+}
